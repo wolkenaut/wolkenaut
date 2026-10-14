@@ -1,4 +1,4 @@
-I'm James, and I'm passionate about mathematics, knot theory, astrophotography, and more!
+I'm James, and I'm passionate about mathematics, linguistics, astrophotography, and more!
 
 ## More:
 [Math](https://jamesarxiv.com/#mathematics): Knot theory, Skein diagrams, and other projects  
